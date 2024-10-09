@@ -6,7 +6,7 @@ subtitle: <a href='educacentre.com'>Educacentre College</a>. Vancouver, BC. Cana
 
 profile:
   align: right
-  image: 
+  image: 9.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: charlotte@suzara.ca</p>
