@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://educacentre.com'>Educacentre College</a>. Vancouver, BC. Canada
+subtitle: Adult Education. Skills for Success. AI Learning.
 
 profile:
   align: right
