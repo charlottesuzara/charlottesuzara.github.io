@@ -25,7 +25,9 @@ I have extensive work experience in the context of official minority language in
 
 At the granular level, I love working with adult and youth learners. I have a passion for bringing people on their journey to learning about themselves and society, through AI-enhanced guided reflexions workshop. Discussions arising from these sessions have the potential to break down limiting thoughts and actions.
 
-Recently I was appointed as a board member of an advocacy network that aims at buidling capacity within francophone organisations and institutions in Canada. The advocacy group called RESDAC is have projects contributing to both economic and social aspects of the Canadian society. We are currently exploring AI tools to enhance even further our projects and impact.You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Recently I was appointed as a board member of an advocacy network that aims at buidling capacity within francophone organisations and institutions in Canada. The advocacy group called RESDAC is have projects contributing to both economic and social aspects of the Canadian society. We are currently exploring AI tools to enhance even further our projects and impact.
+
+You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
