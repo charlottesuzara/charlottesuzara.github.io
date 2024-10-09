@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: hello
 permalink: /
 subtitle: Adult Education. Skills for Success. AI Learning.
 
@@ -16,8 +16,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-Hello
 
 My interest lies at the intersection of adult education and AI-enhanced skills evaluation, recognition and training so that adult learners can access quality educational content that has longlasting effects on their professional lives, families, communities and the society at large.
 
