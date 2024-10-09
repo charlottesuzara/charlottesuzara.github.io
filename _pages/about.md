@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My interest lies at the intersection of adult education and AI-enhanced skills evaluation, recognition and training so that adult learners can access quality educational content that has longlasting effects on their professional lives, families, communities and the society at large.
+My interest lies at the intersection of adult education and AI-enhanced skills evaluation, recognition and training so that adult learners can access quality educational content that has longlasting effects on their professional lives, families, communities and the society at large. I am a firm believer that learning opportunities are nested in every moment of life. 
 
 I have extensive work experience in the context of official minority language in provinces outside of Quebec in Canada. More specifically, I work in a non-profit promoting access to francophone programs for learners to learn in their first language and as an effort to maintain the canadian francophone cultural heritage that is being diluted in many provinces. I am lucky to be involved in projects aiming at maintaining Canadian cultural diversity.
 
