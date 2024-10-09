@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='educacentre.com'>Educacentre College</a>. Vancouver, BC. Canada
+subtitle: <a href='https://educacentre.com'>Educacentre College</a>. Vancouver, BC. Canada
 
 profile:
   align: right
