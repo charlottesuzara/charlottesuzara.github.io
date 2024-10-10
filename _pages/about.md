@@ -7,7 +7,7 @@ subtitle: Adult Education. Skills for Success. AI Learning.
 profile:
   align: right
   image: Me.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: charlotte@suzara.ca</p>
     <p>City: Vancouver, BC</p>
